@@ -1,0 +1,8 @@
+{
+  "name": "Amber & Aura - The Orange Store",
+  "description": "A vibrant, premium e-commerce platform specializing in orange-themed products, featuring a built-in AI shopping assistant to help you find the perfect match.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
