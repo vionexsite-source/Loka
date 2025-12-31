@@ -1,4 +1,3 @@
-
 {
   "name": "amber-and-aura",
   "private": true,
@@ -16,6 +15,7 @@
     "react-dom": "^19.2.3"
   },
   "devDependencies": {
+    "@types/node": "^25.0.3",
     "@types/react": "^19.2.3",
     "@types/react-dom": "^19.2.3",
     "autoprefixer": "^10.4.20",
